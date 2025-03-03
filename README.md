@@ -37,7 +37,7 @@ The model achieves **robust segmentation performance**:
 ### 📸 Sample Outputs  
 | Input Image | Ground Truth | Predicted Segmentation |
 |------------|--------------|------------------------|
-| ![Input](result images/DRIVE dataset image.png) | ![Ground Truth](outputs/ground_truth.png) | ![Prediction](outputs/predicted_sample.png) |
+| ![Input](result_img/dataset.png) | ![Ground Truth](result_img/truth.png) | ![Prediction](result_img/segmented.png) |
 
 ## 🚀 Running the Project  
 This project is implemented in **a single Jupyter Notebook**. Ensure you have a **CUDA-enabled GPU** for optimal performance.  
