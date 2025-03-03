@@ -40,16 +40,10 @@ This project is implemented in **a single Jupyter Notebook**. Ensure you have a 
 ### Steps to Run:  
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/fundus-vessel-segmentation-gan.git
-cd fundus-vessel-segmentation-gan
+git clone https://github.com/JatinPhogat/Eye-Vessel-Segmentation-Using-Machine-Learning/
 ```
 
-2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Run the Jupyter Notebook:
+2️⃣ Run on jupyter notebook:
 ```bash
 jupyter notebook
 ```
