@@ -34,11 +34,6 @@ The model achieves **robust segmentation performance**:
 ✔ **Precision:** 0.5007  
 ✔ **Recall:** 1.0000  
 
-### 📸 Sample Outputs  
-| Input Image | Ground Truth | Predicted Segmentation |
-|------------|--------------|------------------------|
-| ![Input](result_img/dataset.png) | ![Ground Truth](result_img/truth.png) | ![Prediction](result_img/segmented.png) |
-
 ## 🚀 Running the Project  
 This project is implemented in **a single Jupyter Notebook**. Ensure you have a **CUDA-enabled GPU** for optimal performance.  
 
